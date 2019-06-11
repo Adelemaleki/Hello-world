@@ -1,5 +1,5 @@
 #include"iosteram"
-nt main()
+int main()
 {
 cout<<" Hello world";
 }
